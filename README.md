@@ -1,4 +1,4 @@
-# HCalculator
+# HCalculator for Paper
 Helps to perform simple calculations without leaving Minecraft
 
 Permissions:

@@ -1,0 +1,15 @@
+name: HCalculator
+version: '1.0'
+main: me.hastly.hcalculator.Plugin
+api-version: '1.16'
+authors: [Hastly_]
+description: Helps to perform simple calculations without leaving Minecraft!
+commands:
+  hcalculator:
+    aliases:
+      - calc
+      - hcalc
+permissions:
+  hcalculator.reload:
+    description: Ability to use /hcalculator reload.
+    default: op

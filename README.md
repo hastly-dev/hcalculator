@@ -1,4 +1,4 @@
-# hcalculator
+# HCalculator
 Helps to perform simple calculations without leaving Minecraft
 
 Permissions:

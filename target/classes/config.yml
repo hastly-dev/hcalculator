@@ -1,5 +1,0 @@
-messages:
-  noPermission: 'You don''t have enough permissions to execute this command!' # Message to the player in the absence of permission
-  reloadConfig: 'The config has been successfully reloaded!' # Message to the player when the plugin is reloaded
-  resultMessage: 'Result: ' # Message to the player when displaying the result
-  globalUsage: 'Unknown command! Usage: /hcalculator <num1> <+|-|/|*> <num2>' # Message to the player with an unknown subcommand
